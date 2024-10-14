@@ -1,0 +1,9 @@
+{
+  "TOKEN": "token",
+  "GUILD_ID": "guildid",
+  "VOICE_CHANNEL_ID": "seslikanalid",
+  "YETKILI_ROLE_ID": "yetkilirol",
+  "activity": "discord.gg/vsc",
+  "type": "listening", 
+  "status": "idle" 
+}
